@@ -16,7 +16,7 @@ connectToDB();
 app.use(
   cors({
     origin: [
-      "https://mern-llm-saad-abbas-projects.vercel.app",
+      "https://saad-frontend.vercel.app",
       "http://localhost:3000",
       "http://localhost:3001",
       "http://localhost:5000",
